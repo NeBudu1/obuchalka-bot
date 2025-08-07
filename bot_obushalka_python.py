@@ -3,7 +3,7 @@ import json
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 from telebot import TeleBot
 
-bot = telebot.TeleBot("8084719643:AAFz-YHKnjo81CGdIkNb1G5zpoxSJ7Kq6Cg")
+bot = telebot.TeleBot("8361794673:AAGLCjXT8eK7KXi19k8WxHex_PrOqnQcZJs")
 
 @bot.message_handler(commands=["start"])
 def nana(message):
